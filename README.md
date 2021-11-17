@@ -1,9 +1,5 @@
-
-# Regulamin Serwera HK
-
-
 **Wchodząc na serwer akceptujesz Regulamin serwera. Nieznajomość regulaminu nie zwalnia z jego przestrzegania.**  
-Złamanie Regulaminu będzie wiązać się z wykluczeniem ze społeczności Historia Kolonii.**
+**Złamanie Regulaminu będzie wiązać się z wykluczeniem ze społeczności Historia Kolonii.**
   
   
 ## 1. Zasady Ogólne
