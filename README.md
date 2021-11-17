@@ -1,9 +1,9 @@
 
-# <p align="center">Regulamin Serwera HK</p>
+# Regulamin Serwera HK
 
 
-**<p align="center">Wchodząc na serwer akceptujesz Regulamin serwera. Nieznajomość regulaminu nie zwalnia z jego przestrzegania.
-Złamanie Regulaminu będzie wiązać się z wykluczeniem ze społeczności Historia Kolonii.</p>**
+**Wchodząc na serwer akceptujesz Regulamin serwera. Nieznajomość regulaminu nie zwalnia z jego przestrzegania.**  
+Złamanie Regulaminu będzie wiązać się z wykluczeniem ze społeczności Historia Kolonii.**
   
   
 ## 1. Zasady Ogólne
@@ -19,4 +19,4 @@ Złamanie Regulaminu będzie wiązać się z wykluczeniem ze społeczności Hist
 **1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub ugrupowanie.  
   
   
-> <p align="center">Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności. Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści. Kopiowanie, przetwarzanie treści w całości lub w części bez zgody Autora bądź Administracji jest zabronione.</p>
+> Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności. Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści. Kopiowanie, przetwarzanie treści w całości lub w części bez zgody Autora bądź Administracji jest zabronione.
