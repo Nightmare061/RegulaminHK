@@ -17,28 +17,8 @@
 
 ## 2. Zasady In Game
 
-**2.1.** 
+***Coming Soon...***
 
-## 6. Definicje
+##  
 
-- IC (In Character) / OOC (Out of Character) – Sformułowanie IC określa świat gry, w którym żyje postać, natomiast OOC jest to nasz świat realny, niezwiązany z rozgrywką
-- Local OOC / Czat OOC - Jest to czat techniczny używany do informowania bądź zgłaszania problemów innym
-graczom w grze lub poza nią
-- IMERSJA – Wczuwanie się w daną rolę bądź otoczenie (Przykładowo wchodząc na teren miasta nie widząc żadnego
-gracza wyobrażamy sobie, że jest to miejsce pełne osób więc nie pozwalamy sobie na żadne bezkarne akcje)
-- MG (Meta gaming) – Wykorzystywanie wiedzy spoza świata gry (OOC) w grze (IC)
-- PG (Power gaming) – Zmuszenie kogoś do jakiejś akcji/czynności
-- EPG (Erotic Power gaming) - Dokonanie na kimś napaści na tle seksualnym
-- BW (Brutally Wounded) – Stan postaci, powstały w wyniku odniesionych obrażeń
-- RK (Revenge Kill) - Powracanie do osoby po uzdrowieniu w celu dokonania zemsty poprzez zabójstwo bądź pobicie
-- RDM (Random Deathmatch) – Atakowanie przypadkowych graczy/NPC bez żadnej podstawy
-- CL (Combat Log) - Wyjście z serwera w celu uniknięcia konsekwencji bądź brania udziału w akcji
-- CK / FCK (Characket Kill / Force Character Kill) – Zabicie postaci gracza w sposób polubowny lub wymuszony,
-skutkujące jej usunięciem.
-- CN (Celebrity Name) – Odgrywanie postaci realnej i znanej z danego uniwersum, np. George Bush
-- MP (Mental Playing) - Odgrywanie osoby chorej psychicznie która utrudnia prowadzenie rozgrywki/akcji RP innym
-graczom, bądź po to by nie zostać ukaranym za przewinienia IC
-- LOOT RP – Celowe zabijanie graczy w celu zabierania przedmiotów z ich ekwipunków  
-- Failr RP - Wyjście z roli podczas odgrywania postaci, łamanie logiki świata oraz inne akcje nieodpowiednie dla odgrywanej roli/odgrywanego roleplayu  
-
-> Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności. Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści. Kopiowanie, przetwarzanie treści w całości lub w części bez zgody Autora bądź Administracji jest zabronione.
+> Regulamin stworzony przez użytkownika Nightmare#0132. Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści. Kopiowanie, przetwarzanie treści w całości lub w części bez zgody Autora bądź Administracji jest zabronione.
