@@ -15,10 +15,5 @@
 **1.9.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy powiadomić Support/Moderacje.  
 **1.10.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub ugrupowanie.  
 
-## 2. Zasady In Game
-
-***Coming Soon...***
-
-##  
 
 > Regulamin stworzony przez użytkownika Nightmare#0132. Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści. Kopiowanie, przetwarzanie treści w całości lub w części bez zgody Autora bądź Administracji jest zabronione.
